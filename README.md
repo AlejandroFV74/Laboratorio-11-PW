@@ -16,5 +16,5 @@ El archivo vercel.json es un archivo de configuración que permite personalizar 
 ¿Qué propiedades del archivo vercel.json son necesarias para que una aplicación Express funcione correctamente en Vercel?
 builds:	Define las rutas y el tipo de construcción. 
 routes:	Configura las rutas para mapear las peticiones a las funciones serverless.
-rewrites:	Si es necesario, reescribe las URL para redirigir peticiones específicas hacia el backend.
-outputDirectory:	Indica la salida del proyecto (aplicaciones con Express).
+rewrites: Si es necesario, reescribe las URL para redirigir peticiones específicas hacia el backend.
+outputDirectory: Indica la salida del proyecto (aplicaciones con Express).
